@@ -1,38 +1,64 @@
-Need help? This page lists common tasks and ways to reach us.
+# Support
 
-## Contact
+We're here to help you with any issues or questions about TrashTab.
 
-- Email: pocketapps1@proton.me
+## Contact Support
 
-## Import a Markdown File
+**Email**: support@trashtab.app  
+**Response Time**: Typically within 24-48 hours
 
-1. In WeChat or Files, open the `.md` file and choose **Open in…** / **Share**.
-2. Select **MDViewer**. The file is automatically saved into the in‑app library.
-3. You can find it on the home screen and open its details page anytime.
+## Before Contacting Support
 
-## Edit Source
+Please check the following before reaching out:
 
-- By default, the Source tab is **read‑only** to avoid accidental edits.  
-- Tap **Edit** to start editing; changes are auto‑saved (throttled). Tap **Done** to exit edit mode.
+1. **Check the [FAQ](faq.md)** - Your question might already be answered
+2. **Ensure you're running the latest version** of TrashTab
+3. **Try restarting the app** - Many issues can be resolved with a simple restart
+4. **Check your iOS version** - Make sure you're running a supported version of iOS
 
-## Export
+## What to Include in Your Support Request
 
-- **PNG**: Exports the full document as a single long image. On iOS, the App can save it directly to Photos (permission required).  
-- **PDF**: Exports a multi‑page PDF (automatic pagination) and opens the system share sheet.
+To help us assist you faster, please include:
 
-If Photos permission was previously denied, go to **Settings → Privacy → Photos → MDViewer** and allow access.
+- Your device model (iPhone XX, iPad XX)
+- iOS version
+- TrashTab version number
+- A clear description of the issue
+- Steps to reproduce the problem (if applicable)
+- Screenshots (if helpful for understanding the issue)
 
-## Purchases
+## Common Issues & Solutions
 
-- Pro access can be unlocked by a monthly/yearly subscription or a one‑time lifetime purchase.
-- To restore on a new device, use **Restore Purchases** in the App.  
-- Subscriptions are managed in Apple ID settings: App Store → Profile → Subscriptions.
+### Data Loss Issues
+- **Issue**: "I lost my debt records"
+- **Solution**: Always maintain regular backups using the Export feature. Check if you have an iCloud backup available.
 
-## Troubleshooting
+### App Crashes
+- **Issue**: "The app keeps crashing"
+- **Solution**: Try force-quitting the app, restarting your device, or reinstalling the app.
 
-- Export shows nothing or partial content  
-  - Ensure you are on the **Preview** tab when exporting; for very long documents, wait a moment for rendering.
-- Cannot see the App in “Open in…”  
-  - Some apps share files as generic data; try using the Files app to open the `.md` file with MDViewer.
-- Purchase succeeded but Pro not unlocked  
-  - Go back to the App, wait a few seconds, or tap **Restore Purchases**. If on TestFlight, confirm you used a **Sandbox** account for the purchase flow.
+### Import/Export Problems
+- **Issue**: "I can't import/export files"
+- **Solution**: Ensure you've granted file access permissions. Check that the file format is correct (.json).
+
+## Feature Requests
+
+We welcome suggestions for new features! Please send your ideas to support@trashtab.app with the subject "Feature Request".
+
+## Bug Reports
+
+If you've found a bug, please report it to support@trashtab.app with:
+
+1. Detailed description of the bug
+2. Steps to reproduce
+3. Expected behavior
+4. Actual behavior
+5. Device and iOS information
+
+## Privacy Concerns
+
+For privacy-related questions, please see our [Privacy Policy](privacy-policy.md). If you have specific privacy concerns, contact us at support@trashtab.app.
+
+---
+
+**Note**: We are a small team, but we strive to respond to all support requests promptly. Thank you for using TrashTab!

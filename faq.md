@@ -1,25 +1,62 @@
-## Does the App collect any data?
-No. MDViewer does not collect, store, or share personal data. See the [Privacy Policy](./privacy-policy.md).
+# Frequently Asked Questions
 
-## Why can’t I see subscriptions in Settings?
-Only auto‑renewable subscriptions appear under Apple ID → Subscriptions. One‑time lifetime purchases do **not** appear there; restore them via **Restore Purchases** in the App.
+## General Questions
 
-## Why can’t I set MDViewer as the default app for `.md`?
-iOS does not allow third‑party apps to force “always open with.” Use WeChat/Files “Open in…” to select MDViewer.
+### What is TrashTab?
+TrashTab is a simple debt tracking app that helps you keep track of money owed between friends and acquaintances.
 
-## Where are exported files?
-- **PNG**: Saved to Photos (if permission granted).  
-- **PDF**: Shared through the iOS share sheet (save to Files, send to apps, etc.).
+### Is TrashTab free?
+Yes, TrashTab is completely free to use with no hidden costs or subscriptions.
 
-## My PNG only shows part of the document
-MDViewer exports the **full** document when generating PNG from HTML. For very long content, allow a moment for rendering.
+### Does TrashTab require an internet connection?
+No, TrashTab works entirely offline. All your data is stored locally on your device.
 
-## PDF is missing pages
-MDViewer uses a print renderer with automatic pagination. If you still see missing pages, try re‑exporting after content finishes rendering on the Preview tab.
+## Data & Privacy
 
-## I denied Photos permission. How do I enable it?
-Go to **Settings → Privacy → Photos → MDViewer** and allow access. Without permission, PNG cannot be saved to Photos.
+### Where is my data stored?
+All your debt records are stored locally on your iOS device. We don't have access to your data.
 
-## TestFlight vs Sandbox
-- **TestFlight** uses your real Apple ID to install builds (no charge).  
-- **Purchases** should be tested with a **Sandbox tester** account (Set under Settings → App Store → Sandbox Account). This avoids real charges.
+### Is my data backed up?
+Your data is included in your regular iCloud backups if you have iCloud Backup enabled. For additional safety, use the Export feature to create manual backups.
+
+### Can I export my data?
+Yes! Use the Export feature to save your debt records as JSON files that you can store anywhere.
+
+## Usage Questions
+
+### How do I add a new debt?
+Tap the "+" button on the main screen, enter the debtor's name, amount, and other details, then save.
+
+### What do the status colors mean?
+- 🔵 **Unpaid**: Debt is still outstanding
+- 🟢 **Paid**: Debt has been repaid
+- 🔴 **Bad Debt**: Debt is unlikely to be paid
+
+### How do I mark a debt as paid?
+Swipe left on any debt in the list and tap "Mark as Paid" or edit the debt and change its status.
+
+### Can I import data from another device?
+Yes, use the Import feature to load JSON files that were previously exported from TrashTab.
+
+## Troubleshooting
+
+### I lost my data after updating iOS
+Your data should be preserved through iOS updates if you have iCloud Backup enabled. Always export backups before major updates.
+
+### The app crashes when I open it
+Try force-quitting the app and reopening it. If the problem persists, reinstall the app and import your backup file.
+
+### Export/Import isn't working
+Make sure you've granted file access permissions when prompted. The app needs permission to access files for these features.
+
+## Feature Requests
+
+### Will you add [feature]?
+We're always improving TrashTab! Send your feature requests to support@trashtab.app
+
+### Can I sync between devices?
+Currently, TrashTab is designed as a single-device app. Use Export/Import to move data between devices manually.
+
+---
+
+Still have questions? Contact us at support@trashtab.app

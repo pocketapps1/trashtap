@@ -19,35 +19,38 @@
 .nav a:hover { background: #e5e7eb; }
 </style>
 
-MDViewer is a lightweight Markdown tool for iOS and iPadOS:
+TrashTab is a simple debt tracking app for iOS that helps you keep track of money owed between friends:
 
-- Import .md files from WeChat or the Files app (Open In…)
-- Dual views: Preview and Source (read‑only by default, tap Edit to modify)
-- Export the full document as PNG (single long image) or multi‑page PDF
-- Auto‑save while editing (throttled to avoid frequent disk writes)
-- Optional Pro access (subscription or lifetime) to unlock advanced export
+- 📝 **Easy Bill Recording**: Quickly add debtors and amounts with a clean interface
+- 🎯 **Smart Status Tracking**: Monitor repayment status (Unpaid/Paid/Bad Debt) in real-time
+- 📊 **Timeline View**: Visualize all bills with clear repayment schedule distribution
+- 💾 **Local Storage**: All data stays on your device for maximum privacy
+- 🔄 **Import/Export**: Backup and restore your data with JSON file support
+
+<div class="nav">
+  <a href="privacy-policy.md">Privacy Policy</a>
+  <a href="terms-of-use.md">Terms of Use</a>
+  <a href="faq.md">FAQ</a>
+  <a href="support.md">Support</a>
+</div>
 
 ## Quick Start
 
-1. Open a .md file from WeChat or Files → choose MDViewer  
-2. The file is automatically saved into the in‑app library  
-3. Preview or switch to Source; tap **Edit** only when you need to modify  
-4. Tap Download to export as **PNG** (saved to Photos) or **PDF** (share sheet)  
+1. **Add a Bill**: Tap the "+" button to create a new debt record
+2. **Track Status**: Use the status tabs to filter bills by their current state
+3. **View Timeline**: Check the Timeline tab to see repayment schedules
+4. **Backup Data**: Use Export feature to create backups of your records
 
-## Documentation
+## Features
 
-<div class="nav">
-  <a href="./privacy-policy">Privacy Policy</a>
-  <a href="./terms-of-use">Terms of Use</a>
-  <a href="./subscription-terms">Subscription Terms</a>
-  <a href="./support">Support</a>
-  <a href="./faq">FAQ</a>
-</div>
+### Simple Debt Management
+Track who owes you money, how much, and when it's due. Perfect for casual loans between friends.
 
-## Supported Platforms
+### Offline Functionality
+No internet connection required. All your debt records are stored locally on your device.
 
-- iOS / iPadOS, TestFlight and App Store distribution
+### Data Portability
+Export your data as JSON files for backup or import into other devices.
 
-## Contact
-
-- Email: pocketapps1@proton.me
+### Privacy First
+We don't collect your data. Your financial information remains private and secure.
