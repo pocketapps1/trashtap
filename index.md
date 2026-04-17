@@ -28,10 +28,10 @@ TrashTab is a simple debt tracking app for iOS that helps you keep track of mone
 - 🔄 **Import/Export**: Backup and restore your data with JSON file support
 
 <div class="nav">
-  <a href="privacy-policy.md">Privacy Policy</a>
-  <a href="terms-of-use.md">Terms of Use</a>
-  <a href="faq.md">FAQ</a>
-  <a href="support.md">Support</a>
+  <a href="privacy-policy">Privacy Policy</a>
+  <a href="terms-of-use">Terms of Use</a>
+  <a href="faq">FAQ</a>
+  <a href="support">Support</a>
 </div>
 
 ## Quick Start
