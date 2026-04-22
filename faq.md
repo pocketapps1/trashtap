@@ -5,9 +5,6 @@
 ### What is TrashTab?
 TrashTab is a simple debt tracking app that helps you keep track of money owed between friends and acquaintances.
 
-### Is TrashTab free?
-Yes, TrashTab is completely free to use with no hidden costs or subscriptions.
-
 ### Does TrashTab require an internet connection?
 No, TrashTab works entirely offline. All your data is stored locally on your device.
 
